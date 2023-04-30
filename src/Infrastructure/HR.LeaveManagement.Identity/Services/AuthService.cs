@@ -82,8 +82,28 @@ public class AuthService : IAuthService
     }
 
 
-    public Task<RegistrationResponse> Register(RegistrationRequest request)
+    public async Task<RegistrationResponse> Register(RegistrationRequest request)
     {
-        throw new NotImplementedException();
+        var existingUser = await _userManager.FindByEmailAsync(request.Email);
+        if(existingUser != null)
+            throw new Exception("user already exists");
+
+        var user = new ApplicationUser{
+            FirstName = request.FirstName,
+            LastName = request.LastName,
+            UserName = request.UserName,
+            Email = request.Email,
+        };
+
+        var result = await _userManager.CreateAsync(user, request.Password);
+        if(!result.Succeeded)
+            throw new Exception($"something went wrong {result.Errors}");
+
+        var createdUser = await _userManager.FindByEmailAsync(request.Email);
+        await _userManager.AddToRolesAsync(createdUser, request.Roles);
+        
+        return new RegistrationResponse{
+            Id = createdUser.Id
+        };
     }
 }

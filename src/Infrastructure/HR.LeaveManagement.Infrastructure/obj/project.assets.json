@@ -793,8 +793,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
-              "projectPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+            "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+              "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
             }
           }
         }

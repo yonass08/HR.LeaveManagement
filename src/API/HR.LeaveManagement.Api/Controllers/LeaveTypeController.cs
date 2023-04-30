@@ -2,6 +2,7 @@ using HR.LeaveManagement.Application.DTOs.LeaveType;
 using HR.LeaveManagement.Application.Features.LeaveTypes.Requests;
 using HR.LeaveManagement.Application.Features.LeaveTypes.Requests.Commands;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace HR.LeaveManagement.Api.Controllers;
@@ -23,6 +24,7 @@ public class LeaveTypeController : ControllerBase
         return Ok(leaveTypes);
     }
 
+    [Authorize]
     [HttpGet("{id}")]
     public async Task<ActionResult<LeaveTypeDto>> GetById(int id)
     {
@@ -48,6 +50,7 @@ public class LeaveTypeController : ControllerBase
     }
 
 
+    [Authorize]
     [HttpDelete("{id}")]
     public async Task<ActionResult> Delete(int id)
     {

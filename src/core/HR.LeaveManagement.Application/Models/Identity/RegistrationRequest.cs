@@ -18,4 +18,7 @@ public class RegistrationRequest
 
     [Required]
     public string Password{get; set;}
+
+    [Required]
+    public ICollection<string> Roles {get; set;}
 }

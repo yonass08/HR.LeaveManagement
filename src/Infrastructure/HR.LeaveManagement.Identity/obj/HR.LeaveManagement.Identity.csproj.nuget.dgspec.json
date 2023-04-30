@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj": {}
+    "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj": {}
   },
   "projects": {
     "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
@@ -128,14 +128,14 @@
         }
       }
     },
-    "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj": {
+    "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
         "projectName": "HR.LeaveManagement.Identity",
-        "projectPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
+        "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\obj\\",
+        "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -176,17 +176,17 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[6.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[6.0.6, )"
             },
             "Microsoft.Extensions.Options.ConfigurationExtensions": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[6.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -194,7 +194,7 @@
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[7.0.4, )"
+              "version": "[6.0.6, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
