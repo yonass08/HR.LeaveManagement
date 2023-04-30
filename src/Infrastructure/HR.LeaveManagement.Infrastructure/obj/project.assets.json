@@ -774,11 +774,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+      "projectUniqueName": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
       "projectName": "HR.LeaveManagement.Infrastructure",
-      "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+      "projectPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\obj\\",
+      "outputPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"

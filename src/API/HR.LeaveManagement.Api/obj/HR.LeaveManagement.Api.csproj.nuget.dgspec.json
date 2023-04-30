@@ -29,6 +29,9 @@
               "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
                 "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
               },
+              "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj": {
+                "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj"
+              },
               "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj"
               },
@@ -190,6 +193,99 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
+        "projectName": "HR.LeaveManagement.Identity",
+        "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\HR.LeaveManagement.Identity.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.30.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
