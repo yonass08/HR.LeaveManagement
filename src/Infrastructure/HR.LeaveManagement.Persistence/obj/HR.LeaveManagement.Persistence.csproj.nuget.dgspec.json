@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj": {}
+    "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+    "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+        "projectUniqueName": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
         "projectName": "HR.LeaveManagement.Application",
-        "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+        "projectPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\obj\\",
+        "outputPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
+              "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+                "projectPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+    "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "projectName": "HR.LeaveManagement.Domain",
-        "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Domain\\obj\\",
+        "outputPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj": {
+    "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
+        "projectUniqueName": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
         "projectName": "HR.LeaveManagement.Persistence",
-        "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
+        "projectPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\obj\\",
+        "outputPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\Infrastructure\\HR.LeaveManagement.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -150,8 +150,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
-                "projectPath": "C:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+              "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+                "projectPath": "c:\\Users\\dell\\OneDrive\\Desktop\\HR.LeaveManagement\\src\\core\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
               }
             }
           }
